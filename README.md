@@ -26,6 +26,8 @@ RecyclerView for message layout
 
 TextToSpeech for voice replies
 
+![Chat UI](Pictures/Screenshot_2025-07-21-12-57-22-27_62a85d92cf38bbcfb13afa70d6f39992.jpg)
+
 🔧 Setup Instructions
 
 1. Clone the Repository
